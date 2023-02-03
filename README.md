@@ -4,5 +4,5 @@
 
 ```shell
 pip install flask
-flask run
+flask run --host=0.0.0.0
 ```
